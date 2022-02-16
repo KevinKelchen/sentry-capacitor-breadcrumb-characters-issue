@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sentry-capacitor-breadcrumb-characters-issue",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
